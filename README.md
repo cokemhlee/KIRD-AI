@@ -7,4 +7,5 @@
 
 * 산불 탐지기 만들기
     * 코드 : FireDetect_TM.ipynb
+    * 데이터 : [Kaggle Fire Dataset](https://www.kaggle.com/datasets/phylake1337/fire-dataset/download?datasetVersionNumber=1)
    
