@@ -6,6 +6,5 @@
     * 코드 : ImageGenerate_New.ipynb
 
 * 산불 탐지기 만들기
-    * 실습코드 : FireDetector.ipynb
-    * 완성코드 : FireDetecotr_teacher.ipynb
- 
+    * 코드 : FireDetect_TM.ipynb
+   
